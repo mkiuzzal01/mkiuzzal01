@@ -13,11 +13,6 @@ want to expand my expertise organizationally. I am comfortable introducing innov
 conducting research to complete projects successfully.
 <be></br>
 
-## My Stats
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mkiuzzl01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="GitHub Stats" />
-</div>
-
 ## Most Used Languages
 <div align="center">
  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiuzzl01&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&custom_title=Top%20Languages&custom_bg=0&custom_colors=css:blue,c:green" alt="Top Languages" />
