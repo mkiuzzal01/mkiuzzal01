@@ -21,7 +21,7 @@ conducting research to complete projects successfully.
 
 ## My Skill Set
 
-<table align="center">
+<table align="center"  background-color="light-blue">
   <tr>
     <td valign="top" width="33%">
       
