@@ -1,8 +1,8 @@
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 <h3 align="center">Welcome to mkiuzzal01 Github</h3>
-<span align="center" >
+<div align="center" >
 <img src="https://i.ibb.co/9vNXhV7/Modern-Minimal-Technology-Background-Banner-2.gif" alt="Codding my is part of life" width="100%" height="100%">
-</span>
+</div>
 
 <br></br>
 
@@ -46,7 +46,7 @@ conducting research to complete projects successfully.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://daisyui.com" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" alt="daisyui" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" alt="daisyUI" width="40" height="40"/>
   </a>
 </div>
     </td>
