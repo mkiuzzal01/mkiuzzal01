@@ -7,7 +7,7 @@
 <br></br>
 
 ## About Me
-Hi, I'm a Front-end Developer. I am passionate about creating seamless user experiences and learning
+Hi, I'm a Software Developer. I am passionate about creating seamless user experiences and learning
 modern web technologies. I aim to become a top full-stack developer and build impactful web solutions. I
 want to expand my expertise organizationally. I am comfortable introducing innovative ideas and
 conducting research to complete projects successfully.
