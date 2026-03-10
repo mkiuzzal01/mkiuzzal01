@@ -1,82 +1,86 @@
 <h1 align="center">Hi 👋 I'm Khairul Islam</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | Building Scalable Web Applications</h3>
 
 <p align="center">
-Building modern web applications with clean code and scalable architecture.
+I enjoy transforming ideas into reliable and user-friendly web applications.  
+Focused on writing clean code, building scalable systems, and continuously learning modern technologies.
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/9vNXhV7/Modern-Minimal-Technology-Background-Banner-2.gif" alt="Coding Banner"/>
+<img src="https://i.ibb.co.com/9vNXhV7/Modern-Minimal-Technology-Background-Banner-2.gif"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mkiuzzal01&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** focused on building modern and scalable web applications.
+I'm a **Full-Stack Developer specializing in the MERN stack** with experience building modern web applications from concept to deployment.
 
-My main stack is **MERN (MongoDB, Express, React, Node.js)**, and I enjoy turning ideas into practical products with clean and maintainable code.
+I focus on writing **maintainable code**, building **responsive interfaces**, and designing **efficient backend APIs**.  
+I enjoy solving real-world problems through technology and continuously improving my development workflow.
 
-I’m continuously improving my skills, exploring new technologies, and working on projects that solve real problems.
-
----
-
-## 🚀 Current Focus
-
-- Building web apps with **React, Next.js, and Node.js**
-- Improving **backend architecture and API design**
-- Practicing **data structures & problem solving**
-- Learning new tools that improve development workflow
+✔ Passionate about **modern web development**  
+✔ Strong interest in **scalable architecture**  
+✔ Always exploring **new tools and frameworks**
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 What I'm Currently Doing
+
+- Building modern applications using **React & Next.js**
+- Developing **REST APIs with Node.js & Express**
+- Improving knowledge in **backend architecture and system design**
+- Exploring tools that improve development productivity
+
+---
+
+# 🧰 Tech Stack
 
 ### Frontend
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
 </p>
 
-### Tools
+### Tools & Platforms
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+</p>
+
+### Other Technologies
+- REST API Development  
+- Authentication (Firebase / JWT)  
+- Responsive Web Design  
+- Database Design  
+- Component-based Architecture  
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mkiuzzal01&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkiuzzal01&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiuzzal01&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkiuzzal01&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkiuzzal01&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiuzzal01&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkiuzzal01&theme=tokyo-night&hide_border=true"/>
@@ -84,28 +88,41 @@ I’m continuously improving my skills, exploring new technologies, and working 
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: **khairul007info@gmail.com**
-- 🌐 Portfolio:  
-  https://md-khairul-islam-portfolio.web.app
-- 📄 Resume:  
-  https://drive.google.com/file/d/1jFRJeU0tHh4984jFtMPyiCm_aNLXeImz/view
-
----
-
-## 🌐 Connect With Me
+# 🏆 GitHub Achievements
 
 <p align="center">
-<a href="https://linkedin.com/in/md-khairul-islam01">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
-
-<a href="https://stackoverflow.com/users/24527627">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=mkiuzzal01&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
 
-💡 *Always learning, always building.*
+# 📫 Contact
+
+📧 Email  
+**khairul007info@gmail.com**
+
+🌐 Portfolio  
+https://md-khairul-islam-portfolio.web.app
+
+📄 Resume  
+https://drive.google.com/file/d/1jFRJeU0tHh4984jFtMPyiCm_aNLXeImz/view
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/md-khairul-islam01">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://stackoverflow.com/users/24527627">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="40"/>
+</a>
+
+</p>
+
+---
+
+💡 *I enjoy building meaningful software, learning new technologies, and contributing to impactful projects.*
