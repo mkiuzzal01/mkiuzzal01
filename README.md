@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | MERN Stack</h3>
 
 <p align="center">
-  Building modern web applications with clean code and scalable architecture.
+Building modern web applications with clean code and scalable architecture.
 </p>
 
 <p align="center">
@@ -13,20 +13,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** who enjoys building modern web applications and exploring new technologies.
+I'm a **Full-Stack Developer** focused on building modern and scalable web applications.
 
-My main focus is the **MERN stack**, where I work on creating responsive interfaces, efficient backend systems, and scalable web solutions. I enjoy turning ideas into practical products and continuously improving my development workflow.
+My main stack is **MERN (MongoDB, Express, React, Node.js)**, and I enjoy turning ideas into practical products with clean and maintainable code.
 
-I'm always interested in learning new tools, improving my problem-solving skills, and collaborating on meaningful projects.
+I’m continuously improving my skills, exploring new technologies, and working on projects that solve real problems.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Current Focus
 
-- Building projects using **React, Next.js, and Node.js**
-- Deepening my knowledge of **backend architecture**
-- Practicing **data structures and problem solving**
-- Exploring new tools that improve development productivity
+- Building web apps with **React, Next.js, and Node.js**
+- Improving **backend architecture and API design**
+- Practicing **data structures & problem solving**
+- Learning new tools that improve development workflow
 
 ---
 
@@ -50,7 +50,7 @@ I'm always interested in learning new tools, improving my problem-solving skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
-### Tools & Platforms
+### Tools
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
@@ -60,28 +60,36 @@ I'm always interested in learning new tools, improving my problem-solving skills
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mkiuzzal01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mkiuzzal01&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkiuzzal01&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkiuzzal01&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiuzzal01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiuzzal01&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkiuzzal01&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## 📫 Contact
 
-- Email: **khairul007info@gmail.com**
-- Portfolio:  
+- 📧 Email: **khairul007info@gmail.com**
+- 🌐 Portfolio:  
   https://md-khairul-islam-portfolio.web.app
-- Resume:  
+- 📄 Resume:  
   https://drive.google.com/file/d/1jFRJeU0tHh4984jFtMPyiCm_aNLXeImz/view
 
 ---
@@ -100,4 +108,4 @@ I'm always interested in learning new tools, improving my problem-solving skills
 
 ---
 
-💡 *I enjoy building things, learning continuously, and sharing knowledge through code.*
+💡 *Always learning, always building.*
