@@ -10,10 +10,6 @@ Focused on writing clean code, building scalable systems, and continuously learn
 <img src="https://i.ibb.co.com/9vNXhV7/Modern-Minimal-Technology-Background-Banner-2.gif"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mkiuzzal01&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -67,18 +63,9 @@ I enjoy solving real-world problems through technology and continuously improvin
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mkiuzzal01&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkiuzzal01&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiuzzal01&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 📈 Contribution Activity
 
@@ -86,26 +73,14 @@ I enjoy solving real-world problems through technology and continuously improvin
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkiuzzal01&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mkiuzzal01&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
----
 
 # 📫 Contact
 
-📧 Email  
-**khairul007info@gmail.com**
+📧 Email     : **khairul007info@gmail.com**
 
-🌐 Portfolio  
-https://md-khairul-islam-portfolio.web.app
+🌐 Portfolio : https://md-khairul-islam.vercel.app
 
-📄 Resume  
-https://drive.google.com/file/d/1jFRJeU0tHh4984jFtMPyiCm_aNLXeImz/view
+📄 Resume    : https://drive.google.com/file/d/1jFRJeU0tHh4984jFtMPyiCm_aNLXeImz/view
 
 ---
 
