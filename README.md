@@ -1,34 +1,36 @@
-<h1 align="center">Hi 👋, I'm Khairul Islam</h1>
-<h3 align="center">A Passionate Full Stack Developer (MERN)</h3>
-
-<h2 align="center">Hello there, fellow <developers/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+<h1 align="center">Hi 👋 I'm Khairul Islam</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/9vNXhV7/Modern-Minimal-Technology-Background-Banner-2.gif" alt="Coding Banner" />
+  Building modern web applications with clean code and scalable architecture.
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co.com/9vNXhV7/Modern-Minimal-Technology-Background-Banner-2.gif" alt="Coding Banner"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hi, I'm **Khairul Islam**, a passionate **Software Developer** focused on building modern and scalable web applications.
+I'm a **Full-Stack Developer** who enjoys building modern web applications and exploring new technologies.
 
-I enjoy creating seamless user experiences and continuously improving my skills in **modern web technologies**. My goal is to become a highly skilled **Full-Stack Developer** and contribute to impactful software solutions.
+My main focus is the **MERN stack**, where I work on creating responsive interfaces, efficient backend systems, and scalable web solutions. I enjoy turning ideas into practical products and continuously improving my development workflow.
 
-I am enthusiastic about learning new technologies, solving complex problems, and collaborating on innovative projects that deliver real-world value.
-
----
-
-# 🚀 Current Focus
-
-- 🌱 Currently learning **Advanced MERN Stack Development**
-- 💻 Working with **React, Next.js, Node.js**
-- 📚 Improving **Data Structures & Problem Solving**
-- 🤝 Open to **collaboration on web projects**
+I'm always interested in learning new tools, improving my problem-solving skills, and collaborating on meaningful projects.
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 What I'm Working On
+
+- Building projects using **React, Next.js, and Node.js**
+- Deepening my knowledge of **backend architecture**
+- Practicing **data structures and problem solving**
+- Exploring new tools that improve development productivity
+
+---
+
+## 🛠 Tech Stack
 
 ### Frontend
 <p>
@@ -48,7 +50,7 @@ I am enthusiastic about learning new technologies, solving complex problems, and
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
-### Tools
+### Tools & Platforms
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
@@ -58,50 +60,44 @@ I am enthusiastic about learning new technologies, solving complex problems, and
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mkiuzzal01&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mkiuzzal01&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkiuzzal01&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkiuzzal01&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiuzzal01&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkiuzzal01&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 📫 Contact Me
+## 📫 Contact
 
-- 📧 Email: **khairul007info@gmail.com**
-- 🌐 Portfolio:  
+- Email: **khairul007info@gmail.com**
+- Portfolio:  
   https://md-khairul-islam-portfolio.web.app
-- 📄 Resume:  
+- Resume:  
   https://drive.google.com/file/d/1jFRJeU0tHh4984jFtMPyiCm_aNLXeImz/view
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/md-khairul-islam01" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<a href="https://linkedin.com/in/md-khairul-islam01">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
 </a>
 
-<a href="https://stackoverflow.com/users/24527627" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/>
+<a href="https://stackoverflow.com/users/24527627">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/>
 </a>
 </p>
 
 ---
 
-# ⚡ Fun Fact
-
-💡 I enjoy learning new technologies and solving challenging programming problems.
-
----
-
-⭐ From **Khairul Islam**
+💡 *I enjoy building things, learning continuously, and sharing knowledge through code.*
