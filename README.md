@@ -38,17 +38,17 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,bootstrap,redux,reactnative"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,nest"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,nestjs,postgres,redis"/>
 </p>
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker"/>
 </p>
 
 ### Other Technologies
