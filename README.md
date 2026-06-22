@@ -43,7 +43,7 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,nestjs,postgres,redis"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,nestjs,postgres,redis,stringboot"/>
 </p>
 
 ### Tools & Platforms
